@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto Shop Car!
+# Boas-vindas ao repositório do projeto Shop Car! :blue_car::rotating_light:
 
 ## Sobre
 Shop-Car é um projeto que simula uma API de gerenciamento de uma concessionária de veículos. desenvolvido em TypeScript, utilizando o paradigma de programação orientada a objeto, e a arquitetura MSC, MongoDB como banco de dados não relacional, e o Mongoose  para mapeamento dos dados. Os tests foram desenvolvidos unitariamente.
